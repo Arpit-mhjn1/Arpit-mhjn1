@@ -6,7 +6,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/arpitmahajan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpitmahajan10" height="30" width="40" /></a>
 </p>
+
 ---
+
 - 🔭 I Worked on [Library Management System](https://github.com/Arpit-mhjn1/Library-Management-System)
 
 - 👯 I also worked on [Loan Application System](https://github.com/Arpit-mhjn1/Loan-Management-System)
