@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arpit Mahajan</h1>
-<h3 align="center">An Aspiring Tech Professional</h3>
+<h1 align="left">Hi 👋, I'm Arpit Mahajan</h1>
+<h3 align="left">An Aspiring Tech Professional</h3>
 
 ---
 - 🔭 I Worked on [Library Management System](https://github.com/Arpit-mhjn1/Library-Management-System)
