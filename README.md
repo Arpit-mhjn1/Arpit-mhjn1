@@ -7,6 +7,8 @@
 
 - 🤝 I created informative website for [Design Hub](https://www.linkedin.com/posts/arpitmahajan10_website-webdevelopment-responsive-activity-7319664780279992321--eTU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE2YQ0kBld4IeJP4XtsyX5m4P_see0DhRZg)
 
+- 👯 I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Loan-Management-System)
+
 - 📫 How to reach me **mahajanarpit37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
