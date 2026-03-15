@@ -19,16 +19,15 @@
 
 - 🤝 I created informative website for [Design Hub](https://thedesignhub.my.canva.site/)
 
-- 👯 I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction)
+- 🛠️ I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction)
 
 - 📫 How to reach me **mahajanarpit37@gmail.com**
 
 ---
 
 <h3 align="left">Key Competencies:</h3>
-# 🛠️ Tech Stack
 
-## 💻 Programming Languages
+## 💻 Programming Languages 
 
 | Language | Badge |
 |----------|-------|
