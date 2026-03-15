@@ -13,7 +13,7 @@
 
 - 👯 I also worked on [Loan Application System](https://github.com/Arpit-mhjn1/Loan-Management-System)
 
-- 🤝 I created informative website for [Design Hub] (https://thedesignhub.my.canva.site/)
+- 🤝 I created informative website for [Design Hub](https://thedesignhub.my.canva.site/)
 
 - 👯 I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction)
 
