@@ -21,7 +21,7 @@
 
 ---
 
-<img src="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png" alt="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png" width="120" height="40"/>
+<img src="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png">
 
 ---
 
