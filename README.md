@@ -9,6 +9,10 @@
 
 ---
 
+[![Banner](https://github.com/Arpit-mhjn1/Arpit-mhjn1/blob/main/Banner.png?raw=true)](https://github.com/Arpit-mhjn1)
+
+---
+
 - 🔭 I Worked on [Library Management System](https://github.com/Arpit-mhjn1/Library-Management-System)
 
 - 👯 I also worked on [Loan Application System](https://github.com/Arpit-mhjn1/Loan-Management-System)
@@ -18,10 +22,6 @@
 - 👯 I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction)
 
 - 📫 How to reach me **mahajanarpit37@gmail.com**
-
----
-
-[![Banner](https://github.com/Arpit-mhjn1/Arpit-mhjn1/blob/main/Banner.png?raw=true)](https://github.com/Arpit-mhjn1)
 
 ---
 
