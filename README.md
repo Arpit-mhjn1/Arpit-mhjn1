@@ -20,7 +20,9 @@
 - 📫 How to reach me **mahajanarpit37@gmail.com**
 
 ---
-<img src="C:\Users\mahaj\OneDrive\Desktop\ARPIT\Banner.png"/>
+
+<img src="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png"/>
+
 ---
 
 <h3 align="left">Key Competencies:</h3>
