@@ -21,7 +21,7 @@
 
 ---
 
-<img src="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png"/>
+<img src="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png">
 
 ---
 
