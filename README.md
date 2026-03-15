@@ -21,7 +21,7 @@
 
 ---
 
-<img src="C:/Users/mahaj/OneDrive/Desktop/ARPIT/Banner.png">
+[![Banner](https://github.com/Arpit-mhjn1/Arpit-mhjn1/blob/main/Banner.png?raw=true)](https://github.com/Arpit-mhjn1)
 
 ---
 
