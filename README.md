@@ -4,7 +4,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arpitmahajan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpitmahajan10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/arpitmahajan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpitmahajan10" height="30" width="40" /></a><a href="https://www.instagram.com/__.arpitttt.__?igsh=d2xwMnR2aXJ6c2lq" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png" alt="https://www.instagram.com/__.arpitttt.__?igsh=d2xwMnR2aXJ6c2lq" height="30" width="40" /></a>
 </p>
 
 ---
