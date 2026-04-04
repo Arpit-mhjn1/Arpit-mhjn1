@@ -1,28 +1,4 @@
-`html
 <h1 class="typing">Hi 👋, I'm Arpit Mahajan</h1>
-<style>
-  .typing {
-    width: 25ch; /* Width can be changed based on your needs*/
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid; /* A blinking cursor can be added here */
-    animation: typing 3s steps(25) infinite, blink 0.5s infinite;
-  }
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-</style>
-```
-<img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpit+Mahajan" alt="Typing SVG" />
 <h3 align="left">An Aspiring Tech Professional</h3>
 
 ---
