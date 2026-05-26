@@ -15,11 +15,11 @@
 
 ---
 
-- 🔭 I Worked on [Library Management System](https://github.com/Arpit-mhjn1/Library-Management-System)
+- 🔭 I Worked on [Loan Application Management System](https://github.com/Arpit-mhjn1/Library-Management-System)
 
-- 👯 I also worked on [Loan Application Management System](https://github.com/Arpit-mhjn1/Loan-Application-Management)
+- 👯 I also worked on [Dropix](https://dropix-6267.onrender.com/)
 
-- 🤝 I created informative website for [Design Hub](https://thedesignhub.my.canva.site/)
+- 🤝 I created informative website for [Campus Event Management]()
 
 - 🛠️ I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction)
 
