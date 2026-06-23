@@ -14,14 +14,7 @@
 
 ---
 
-- 🔭 I Worked on [Loan Application Management System](https://github.com/Arpit-mhjn1/Library-Management-System)
-
-- 👯 I also worked on [Dropix](https://dropix-6267.onrender.com/)
-
-- 🤝 I created event management website - [Campus Event Management](https://edc-event-manager-1.onrender.com)
-
-- 🛠️ I also developed [Algerian Forest Fire Prediction](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction)
-
+- 🔭👯🤝🛠️ [Visit my Portfolio](https://portfolio-project-snowy-rho.vercel.app/)
 - 📫 How to reach me **mahajanarpit37@gmail.com**
 
 ---
