@@ -74,6 +74,20 @@
 
 ---
 
+<h3 align="left">📊 GitHub Analytics & Top Languages:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpit-mhjn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arpit's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&theme=tokyonight&hide_border=true" alt="Arpit's Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-mhjn1&theme=tokyonight&hide_border=true" alt="Arpit's GitHub Streak" />
+</p>
+
+---
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact)](https://github.com/Arpit-mhjn1)
 
 ---
