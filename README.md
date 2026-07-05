@@ -81,12 +81,12 @@
 ## 📊 GitHub Analytics & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arpit-mhjn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arpit's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&theme=tokyonight&hide_border=true" alt="Arpit's Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arpit-mhjn1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Arpit's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&theme=github_dark&hide_border=true" alt="Arpit's Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-mhjn1&theme=tokyonight&hide_border=true" alt="Arpit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-mhjn1&theme=github_dark&hide_border=true" alt="Arpit's GitHub Streak" />
 </p>
 
 ---
