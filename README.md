@@ -74,7 +74,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&theme=radical)](https://github.com/Arpit-mhjn1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact)](https://github.com/Arpit-mhjn1)
 
 ---
 # Thankyou ✨
