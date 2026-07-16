@@ -74,7 +74,7 @@
 | **🏛️ Campus Event Manager** | Comprehensive management system for organizing and tracking events across university campuses. | `Full Stack`, `Database` | [Live Demo ↗](https://edc-event-manager-1.onrender.com/) |
 | **📚 Library Management** | Streamlined system to manage library inventory, track borrowings, and enhance user experience. | `HTML/CSS`, `JavaScript` | [GitHub Repo ↗](https://github.com/Arpit-mhjn1/Library-Management-System) |
 
-> 💡 *Check out my complete interactive project showcase on my **[Personal Portfolio Website](https://portfolio-project-snowy-rho.vercel.app/)**.*
+> 💡 *Check out my complete interactive project showcase on my **[Personal Portfolio Website](https://arpit-mhjn1.github.io/arpit-portfolio/)**.*
 
 ---
 
