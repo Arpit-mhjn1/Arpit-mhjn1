@@ -6,7 +6,7 @@
 
 *Just a kindred soul making his own place in this world. Passionate about leveraging technology and AI to build impactful, real-world solutions.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00D8B6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-project-snowy-rho.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00D8B6?style=for-the-badge&logo=vercel&logoColor=white)](https://arpit-mhjn1.github.io/arpit-portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-View_CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-project-snowy-rho.vercel.app/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitmahajan10)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajanarpit37@gmail.com)
