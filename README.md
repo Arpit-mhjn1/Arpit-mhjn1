@@ -6,10 +6,10 @@
 
 *Just a kindred soul making his own place in this world. Passionate about leveraging technology and AI to build impactful, real-world solutions.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00D8B6?style=for-the-badge&logo=vercel&logoColor=white)](https://arpit-mhjn1.github.io/arpit-portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-View_CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arpit-mhjn1.github.io/arpit-portfolio/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitmahajan10)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajanarpit37@gmail.com)
+[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20My%20Website/00D8B6?icon=vercel)](https://arpit-mhjn1.github.io/arpit-portfolio/)
+[![Resume](https://badgen.net/badge/Resume/View%20CV/FF6B6B?icon=github)](https://arpit-mhjn1.github.io/arpit-portfolio/resume.pdf)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/0A66C2?icon=linkedin)](https://www.linkedin.com/in/arpitmahajan10)
+[![Email](https://badgen.net/badge/Email/Contact%20Me/EA4335?icon=mail)](mailto:mahajanarpit37@gmail.com)
 
 ---
 
@@ -95,9 +95,9 @@
   
 ### 🤝 Let's Connect and Build Something Amazing!
 
-<a href="https://www.linkedin.com/in/arpitmahajan10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://portfolio-project-snowy-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:mahajanarpit37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/arpitmahajan10" target="_blank"><img src="https://badgen.net/badge/LinkedIn/Connect/0077B5?icon=linkedin" alt="LinkedIn"></a>
+<a href="https://arpit-mhjn1.github.io/arpit-portfolio/" target="_blank"><img src="https://badgen.net/badge/Portfolio/Website/000000?icon=vercel" alt="Portfolio"></a>
+<a href="mailto:mahajanarpit37@gmail.com"><img src="https://badgen.net/badge/Email/Contact/D14836?icon=mail" alt="Email"></a>
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Arpit-mhjn1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
