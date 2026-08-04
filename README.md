@@ -71,7 +71,7 @@
 | **🔥 Forest Fire Prediction** | Machine learning model using Scikit-learn to analyze and accurately predict forest fire risks. | `Python`, `Scikit-Learn`, `ML` | [Live Demo ↗](https://algerian-forest-fire-prediction1.streamlit.app/) |
 | **💳 Loan Management System** | Enterprise application for streamlining loan processing and approvals with a secure backend. | `Java`, `Spring Boot`, `MySQL` | [GitHub Repo ↗](https://github.com/Arpit-mhjn1/Loan-Application-Management) |
 | **☁️ Dropix Cloud** | Responsive cloud file-sharing web application with robust user authentication and secure links. | `Web App`, `Cloud`, `Auth` | [Live Demo ↗](https://dropix-6267.onrender.com/) |
-| **🏛️ Campus Event Manager** | Comprehensive management system for organizing and tracking events across university campuses. | `Full Stack`, `Database` | [Live Demo ↗](https://edc-event-manager-1.onrender.com/) |
+| **🏛️ Campus Event Manager** | Comprehensive management system for organizing and tracking events across university campuses. | `Full Stack`, `Database` | [Live Demo ↗](https://divine-amazement-production-237d.up.railway.app/) |
 | **📚 Library Management** | Streamlined system to manage library inventory, track borrowings, and enhance user experience. | `HTML/CSS`, `JavaScript` | [GitHub Repo ↗](https://github.com/Arpit-mhjn1/Library-Management-System) |
 
 > 💡 *Check out my complete interactive project showcase on my **[Personal Portfolio Website](https://arpit-mhjn1.github.io/arpit-portfolio/)**.*
