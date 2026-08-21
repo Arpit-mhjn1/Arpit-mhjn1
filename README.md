@@ -85,9 +85,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&theme=github_dark&hide_border=true" alt="Arpit's Top Languages" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-mhjn1&theme=github_dark&hide_border=true" alt="Arpit's GitHub Streak" />
-</p>
+
 
 ---
 
