@@ -1,10 +1,10 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,40:1e1b4b,75:4C1D95,100:7C3AED&height=200&text=Arpit%20Mahajan&fontColor=ffffff&fontSize=58&fontAlignY=50&animation=blinking&desc=Engineering%20ideas%20into%20reality%20%E2%80%94%20one%20deploy%20at%20a%20time&descAlignY=70&descSize=16" width="100%" alt="Arpit Mahajan"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,40:1e1b4b,75:4C1D95,100:7C3AED&height=200&text=Arpit%20Mahajan&fontColor=ffffff&fontSize=58&fontAlignY=50&animation=blinking&desc=Python%20Developer%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=70&descSize=16" width="100%" alt="Arpit Mahajan"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer+%7C+AI+Builder+%7C+Java+Craftsman;%24+arpit+--status%3A+Building+something+cool+%F0%9F%9A%80;Always+learning.+Always+shipping.+Always+curious.;Open+to+Internships+%26+SWE+roles+%E2%80%94+let%27s+talk!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Python+Developer+%7C+AI+%26+ML+Engineer;RAG+Pipelines+%E2%80%A2+Vector+DBs+%E2%80%A2+LLM+Apps;FastAPI+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL;Always+learning.+Always+shipping.+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,20 +36,34 @@
 
 ```bash
 {
-  "name"       : "Arpit Mahajan",
-  "title"      : "Aspiring Software Engineer",
-  "location"   : "India 🇮🇳",
-  "open_to"    : ["Internships", "SWE Roles", "Collaborations"],
+  "name"        : "Arpit Mahajan",
+  "title"       : "Full Stack Python Developer | AI & ML Engineer",
+  "location"    : "Pathankot, Punjab, India 🇮🇳",
+  "education"   : "B.Tech Computer Engineering (AI & ML) — ACET, 2023–2027",
+  "open_to"     : ["Internships", "SWE Roles", "Collaborations"],
 
-  "i_build"    : ["AI-powered web apps", "Spring Boot backends", "ML pipelines"],
-  "i_use"      : ["Python", "Java", "JavaScript", "SQL"],
-  "i_deploy_on": ["Render", "Vercel", "GitHub Pages", "Streamlit Cloud"],
-
-  "currently"  : "Deepening Java/Spring Boot + exploring LangChain & RAG",
-  "philosophy" : "Ship it → learn from it → make it better.",
-  "fun_fact"   : "My commit history tells more stories than my diary 📖"
+  "i_build"     : [
+    "RAG pipelines with vector DBs (Qdrant, pgvector)",
+    "FastAPI microservices & async backends",
+    "Full-stack apps with React + TypeScript",
+    "LLM-powered AI applications"
+  ],
+  "deployed_at" : "1,000+ active users | 99.9% uptime",
+  "philosophy"  : "Ship it → learn from it → make it better.",
+  "fun_fact"    : "My commit history tells more stories than my diary 📖"
 }
 ```
+
+---
+
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_Innovative_Idea_Clash_Event_3.0-gold?style=for-the-badge&labelColor=0a0f1e" />
+  <img src="https://img.shields.io/badge/🥇_Tech_Discussion_ACES-gold?style=for-the-badge&labelColor=0a0f1e" />
+  <img src="https://img.shields.io/badge/🥇_State_Level_Quiz_PTU_YF_2024-gold?style=for-the-badge&labelColor=0a0f1e" />
+  <img src="https://img.shields.io/badge/👑_President_EDC_|_Leadership_Award-7C3AED?style=for-the-badge&labelColor=0a0f1e" />
+</p>
 
 ---
 
@@ -57,14 +71,14 @@
 
 ```mermaid
 graph TD
-    A(["💡 Idea"]) --> B{"Is there a\nreal problem?"}
-    B -- Yes --> C(["📐 Design the system"])
+    A(["💡 Understand\nthe problem"]) --> B{"Is there a\nreal need?"}
+    B -- Yes --> C(["📐 Design\nthe architecture"])
     B -- No --> A
-    C --> D(["⚙️ Build the core path"])
-    D --> E(["🔌 Wire up the layers"])
-    E --> F(["🚀 Deploy somewhere real"])
+    C --> D(["⚙️ Build the\ncritical path"])
+    D --> E(["🔌 Wire up\nall layers"])
+    E --> F(["🚀 Deploy\nto production"])
     F --> G{"Does it\nsolve the problem?"}
-    G -- Yes --> H(["✅ Done — but always improvable"])
+    G -- Yes --> H(["✅ Ship it &\nkeep iterating"])
     G -- No --> C
 
     style A fill:#1e1b4b,stroke:#7C3AED,color:#e2e8f0
@@ -77,8 +91,6 @@ graph TD
     style H fill:#064e3b,stroke:#22c55e,color:#e2e8f0
 ```
 
-> I don't start with the fanciest tool — I start with the clearest problem definition. The tech stack follows the problem, not the other way around.
-
 ---
 
 ## 🚀 Projects that ship
@@ -87,18 +99,18 @@ graph TD
 
 | | Project | The problem it solves | Stack | Live |
 |:-:|:--------|:---------------------|:------|:----:|
-| 🤖 | **AI Interview Coach** | Mock interviews are generic. This one adapts to your *exact* target role using Groq Llama 3 — and tells you *why* your answer was weak. | `Python` · `Streamlit` · `Groq LLM` | [↗ Demo](https://ainterviewpreperation.streamlit.app/) |
-| 🔥 | **Forest Fire Predictor** | Algerian meteorological data → trained ML classification → fire risk prediction, fully deployed. Not just a notebook — a live tool. | `Python` · `Scikit-Learn` · `Streamlit` | [↗ Demo](https://algerian-forest-fire-prediction1.streamlit.app/) |
-| 💳 | **Loan Management System** | A production-structured Spring Boot backend with clean layered architecture — not a tutorial project, a real enterprise pattern. | `Java` · `Spring Boot` · `MySQL` | [↗ Repo](https://github.com/Arpit-mhjn1/Loan-Application-Management) |
-| ☁️ | **Dropix Cloud** | Upload a file. Get a secure shareable link. Auth included. Deployed and usable by anyone right now. | `Web App` · `Auth` · `Render` | [↗ Demo](https://dropix-6267.onrender.com/) |
-| 🎓 | **Campus Event Manager** | End-to-end event management for campuses — create, register, track — full-stack and deployed. | `Full Stack` · `Database` · `Render` | [↗ Demo](https://edc-event-manager-1.onrender.com/) |
-| 📚 | **Library Management** | Zero backend, full functionality — inventory, borrowings and search, all in vanilla JS with localStorage. | `HTML` · `CSS` · `JavaScript` | [↗ Repo](https://github.com/Arpit-mhjn1/Library-Management-System) |
+| 🧠 | **DOCLY — AI Doc Intelligence** | Research means reading 50 PDFs. DOCLY lets you *talk* to your documents — sub-100ms RAG queries, 96.4% faithfulness score, real-time streaming answers. | `FastAPI` · `Next.js` · `Qdrant` · `Redis` · `Celery` · `Docker` | [↗ Repo](https://github.com/Arpit-mhjn1) |
+| 🎓 | **Campus Event Manager** | Manual registrations, paper tickets, admin chaos. This replaced all of it — 1,000+ active users, 99.9% uptime, automated PDF credentials. | `React` · `FastAPI` · `PostgreSQL` · `Render` | [↗ Demo](https://edc-event-manager-1.onrender.com/) |
+| ☁️ | **Dropix Cloud** | A full-stack cloud storage platform — 5GB quota, JWT auth, sub-100ms API responses, SendGrid email integration. Deployed and usable by anyone. | `React` · `FastAPI` · `PostgreSQL` · `JWT` · `SendGrid` | [↗ Demo](https://dropix-6267.onrender.com/) |
+| 🤖 | **AI Interview Coach** | Mock interviews that adapt to your *exact* role using LangChain + Groq Llama 3 — not generic questions, structured JSON pipelines with zero schema failures. | `Python` · `LangChain` · `Groq Llama 3` · `Streamlit` | [↗ Demo](https://ainterviewpreperation.streamlit.app/) |
+| 🔥 | **Forest Fire Predictor** | Algerian meteorological data → trained ML classification → fire risk prediction. A full pipeline — EDA, feature engineering, trained model, deployed tool. | `Python` · `Scikit-Learn` · `Pandas` · `Streamlit` | [↗ Demo](https://algerian-forest-fire-prediction1.streamlit.app/) |
+| 💳 | **Loan Management System** | A production-structured Spring Boot backend — layered architecture (Controller → Service → Repository), REST APIs, MySQL persistence. | `Java` · `Spring Boot` · `MySQL` | [↗ Repo](https://github.com/Arpit-mhjn1/Loan-Application-Management) |
 
 </div>
 
 <p align="center">
   <a href="https://arpit-mhjn1.github.io/arpit-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Full_project_showcase_with_details-0a0f1e?style=for-the-badge&labelColor=4C1D95&color=7C3AED" />
+    <img src="https://img.shields.io/badge/🌐_Full_project_showcase_with_architectures-0a0f1e?style=for-the-badge&labelColor=4C1D95&color=7C3AED" />
   </a>
 </p>
 
@@ -110,20 +122,40 @@ graph TD
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" />
 
-**Frameworks & Tools**
+**Backend & Microservices**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,html,css,git,github,mysql,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker&theme=dark" />
 
-**AI / ML**
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+
+**Databases & Caching**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Qdrant-DC143C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logoColor=white" />
+
+**AI / ML & Vector Retrieval**
 <br/>
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
 &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq%20LLMs-7C3AED?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq%20LPU-F97316?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-06B6D4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings%20%26%20NLP-7C3AED?style=flat-square&logoColor=white" />
+
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 
 </div>
 
@@ -133,15 +165,32 @@ graph TD
 
 | Domain | Skills |
 |:--------|:--------|
-| **Languages** | Python · Java · C++ · C · JavaScript |
-| **Backend** | Spring Boot · Spring Data JPA · REST APIs · JWT Auth · Maven |
-| **AI / ML** | Scikit-Learn · Pandas · NumPy · Feature Engineering · ML Pipelines |
-| **Generative AI** | Groq API · Llama 3 · LLM Prompt Engineering · AI App Architecture |
-| **Frontend** | HTML5 · CSS3 · JavaScript · Streamlit |
-| **Databases** | MySQL · SQL · localStorage |
-| **Cloud & DevOps** | Render · Vercel · GitHub Pages · Git |
+| **Languages** | Python (AsyncIO) · JavaScript (ES6+) · TypeScript · Java · C++ · C |
+| **Frontend & Full Stack UI** | React.js · Next.js · Tailwind CSS · HTML5/CSS3 · State Management · WebSockets · Responsive UI/UX |
+| **Backend & Microservices** | FastAPI · Flask · Node.js · RESTful APIs · Celery · Uvicorn · Pydantic · SQLAlchemy · Microservices Architecture |
+| **AI, ML & Vector Retrieval** | LLMs · RAG Pipelines · LangChain · LlamaIndex · Qdrant Vector DB · pgvector · Groq LPU · Embeddings · NLP · Scikit-learn |
+| **Databases & Caching** | PostgreSQL · Redis (Caching & Task Broker) · MySQL · Qdrant · MinIO · SQLite |
+| **Cloud & DevOps** | Docker · Docker Compose · Render PaaS · Vercel · Git/GitHub · GitHub Pages |
+| **Core CS** | System Design · End-to-End Full Stack Architecture · DSA · OOP · DBMS · Agile/Scrum |
 
 </details>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|:---|:---|
+| The Joy of Computing Using Python | IIT Madras |
+| Building AI Applications Using Python | LinkedIn Learning |
+| MLOps Essentials: Model Deployment & Monitoring | LinkedIn Learning |
+| Introduction to AI/ML | Pregrad |
+| Career Skills in Software Development | Microsoft |
+| Cloud Computing | IIT Kharagpur |
+
+</div>
 
 ---
 
@@ -150,13 +199,13 @@ graph TD
 ```diff
 @@  What I'm focused on right now  @@
 
-+ Mastering Spring Boot microservices & system design patterns
-+ Building RAG pipelines and LangChain-based AI apps
-+ Grinding DSA for SWE interview readiness
-+ Shipping side projects that solve real problems
++ Building DOCLY: an end-to-end AI document intelligence platform
++ Deepening expertise in RAG, vector databases and LLM app architecture
++ Mastering Docker, Celery and async FastAPI microservices at scale
++ Grinding DSA and system design for SWE interview readiness
 
-- Waiting for the "perfect" time to start
 - Writing code that only lives on localhost
+- Waiting for the "perfect" moment to start building
 ```
 
 ---
@@ -220,7 +269,6 @@ graph TD
   <img src="https://komarev.com/ghpvc/?username=Arpit-mhjn1&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:4C1D95,100:0a0f1e&text=Ship%20it.%20Learn%20from%20it.%20Make%20it%20better.&fontSize=16&fontColor=ffffff&fontAlignY=75" width="100%" alt="Footer" />
 </p>
