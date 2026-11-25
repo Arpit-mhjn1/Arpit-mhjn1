@@ -300,10 +300,6 @@ graph TD
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arpit-mhjn1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpit-mhjn1/Arpit-mhjn1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpit-mhjn1/Arpit-mhjn1/output/github-contribution-grid-snake.svg" />
