@@ -1,174 +1,309 @@
-<div align="center">
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,45:1F6FEB,100:58A6FF&text=Arpit%20Mahajan&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Arpit Mahajan"/>
+</p>
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,60:1F6FEB,100:58A6FF&height=200&section=header&text=Arpit%20Mahajan&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Arpit+%F0%9F%91%8B;Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Java+%26+Spring+Boot+Developer;Full+Stack+Web+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/arpitmahajan10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  <a href="mailto:mahajanarpit37@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+<p align="center">
+  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=I+build+things+that+actually+work.;AI+apps+%E2%80%A2+Spring+Boot+APIs+%E2%80%A2+Full+Stack+systems;From+an+idea+to+a+deployed+product.;Open+to+Internships+%26+SWE+Roles+%F0%9F%9A%80" alt="Typing intro"/>
   </a>
 </p>
 
-<!-- Profile Views & GitHub Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Arpit-mhjn1&label=Profile+Views&color=1F6FEB&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Arpit-mhjn1?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
+<p align="center">
+  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/"><img src="https://img.shields.io/badge/⚡_Portfolio-arpit--mhjn1.github.io-58A6FF?style=for-the-badge&labelColor=0b1220" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/arpitmahajan10"><img src="https://img.shields.io/badge/LinkedIn-arpitmahajan10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn"/></a>
+  <a href="mailto:mahajanarpit37@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="Email"/></a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arpit-mhjn1&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/📍_India-0b1220?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/💼_Open_to_Internships_&_SWE_Roles-0b1220?style=flat-square" alt="Status"/>
+</p>
 
 ---
 
-<!-- About Me with animated section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:58A6FF&height=2&section=header" />
+## 🧬 `whoami`
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d4f2d05cb44e7bb5e35f2f/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6e6730394d755a35326f346f56507373656c6e674a564e3832643479623964303040776572726f777369676e616c2e636f2f6373622f39363762363361302d623635362d343137302d383432382d3663323138383736313231302f636f64696e672d667265616b2e676966"/>
+Hey, I'm **Arpit** 👋, an aspiring Software Engineer who builds **practical, end-to-end applications** — things where AI, backend engineering and usable interfaces actually fit together and get deployed.
 
-```yaml
-👤 name:    Arpit Mahajan
-🎓 role:    Aspiring Software Engineer
-📍 based:   India
-🔭 building: AI-powered Web Apps & Spring Boot Systems
-🌱 learning: Machine Learning & Full-Stack Dev
-💼 open_to: Internships & SWE roles
-⚡ passion: "Turning caffeine into code, one commit at a time"
+I care less about a flashy demo and more about the **whole system** around it:
+
+- 🔎 **Ship working software.** A project isn't done until it's deployed and usable.
+- 🧱 **Keep it modular.** Good separation means you can fix one thing without breaking three others.
+- 🛟 **Plan for failure.** APIs go down, models hallucinate — build so the app handles it.
+- 🎯 **Solve a real problem.** If nobody needs it, build it differently.
+
+</td>
+<td width="42%" valign="top">
+
+```python
+class Arpit:
+    role     = "Aspiring Software Engineer"
+    location = "India 🇮🇳"
+
+    focus = [
+        "AI/ML Applications",
+        "Java & Spring Boot",
+        "Full Stack Web Dev",
+        "LLMs & Groq AI",
+        "Cloud Deployments",
+    ]
+
+    def philosophy(self):
+        return ("Code that ships and works "
+                "beats perfect code that "
+                "lives only on localhost.")
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## ⚙️ How I build
 
-<div align="center">
+```mermaid
+flowchart LR
+    A["🎯 Understand<br/>the problem"] --> B["📐 Design<br/>the system"]
+    B --> C["🧪 Build<br/>it out"]
+    C --> D["🔌 Connect<br/>the layers"]
+    D --> E["🚀 Deploy<br/>& iterate"]
+    E -. learn .-> A
+    style A fill:#0b1220,stroke:#58A6FF,color:#e6f6ff
+    style B fill:#0b1220,stroke:#58A6FF,color:#e6f6ff
+    style C fill:#0b1220,stroke:#58A6FF,color:#e6f6ff
+    style D fill:#0b1220,stroke:#58A6FF,color:#e6f6ff
+    style E fill:#0b1220,stroke:#58A6FF,color:#e6f6ff
+```
 
-### 🔸 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" />
-</p>
-
-### 🔸 Frameworks & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,html,css,streamlit&theme=dark" />
-</p>
-
-### 🔸 AI / ML & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq%20LLMs-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
-</p>
-
-### 🔸 Databases & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vercel&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
-</div>
+| Stage | What it means | Seen in |
+| :-- | :-- | :-- |
+| 🎯 **Understand** | Define the core user problem before picking any tool or framework | **AI Interview Coach**: the real value wasn't just questions — it was role-specific, real-time feedback |
+| 📐 **Design** | Plan the data flow, API contracts and boundaries before writing code | **Loan Management**: Spring Boot layers (Controller → Service → Repository) designed first, coded second |
+| 🧪 **Build** | Build the critical path first; get one flow working end-to-end | **Forest Fire Predictor**: cleaned data → feature pipeline → model → Streamlit UI, one stage at a time |
+| 🔌 **Connect** | Wire the backend, ML model and UI through clean, documented interfaces | **Dropix Cloud**: REST endpoints → auth middleware → file storage → responsive frontend |
+| 🚀 **Deploy** | Ship to a real URL, handle environment differences, make it accessible | **Campus Event Manager**: CI/CD-free deployment to Render with environment config handled gracefully |
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+## 🚀 Featured projects
 
-<div align="center">
+> Six builds. Six different problems. One rule: **if it isn't deployed and working, it isn't finished.**
 
-| 🚀 Project | 📄 Description | 🛠 Stack | 🔗 Links |
-|:---------:|:--------------|:--------|:-------:|
-| **🤖 AI Interview Coach** | AI-powered mock interview coach using **Groq Llama 3** to dynamically generate role-specific questions and give real-time feedback | `Python` `Streamlit` `LLM` `Groq` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://ainterviewpreperation.streamlit.app/) |
-| **🔥 Forest Fire Predictor** | ML model using **Scikit-Learn** to analyze Algerian forest fire data and predict fire risk with high accuracy | `Python` `Scikit-Learn` `ML` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://algerian-forest-fire-prediction1.streamlit.app/) |
-| **💳 Loan Management System** | Enterprise-grade **Spring Boot** application for streamlined loan processing, approvals and secure backend APIs | `Java` `Spring Boot` `MySQL` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arpit-mhjn1/Loan-Application-Management) |
-| **☁️ Dropix Cloud** | Responsive cloud **file-sharing** web app with user authentication, secure link generation, and clean UI | `Web App` `Cloud` `Auth` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://dropix-6267.onrender.com/) |
-| **🎓 Campus Event Manager** | Full-stack **event management system** for university campuses — create, organize, and track events seamlessly | `Full Stack` `Database` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://edc-event-manager-1.onrender.com/) |
-| **📚 Library Management** | Streamlined **library system** to manage inventory, track borrowings, and enhance user experience | `HTML` `CSS` `JavaScript` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arpit-mhjn1/Library-Management-System) |
+### ⚡ Quick view
 
-</div>
+| # | Project | What it solves | Core tech | Link |
+| :-: | :-- | :-- | :-- | :-: |
+| 01 | 🤖 **AI Interview Coach** | Generates role-specific mock questions and gives real-time AI feedback | `Python` `Streamlit` `Groq Llama 3` | [Live ↗](https://ainterviewpreperation.streamlit.app/) |
+| 02 | 🔥 **Forest Fire Predictor** | Predicts Algerian forest fire risk from meteorological data with ML | `Python` `Scikit-Learn` `Streamlit` | [Live ↗](https://algerian-forest-fire-prediction1.streamlit.app/) |
+| 03 | 💳 **Loan Management System** | Enterprise-grade loan processing and approval with a secure Spring Boot backend | `Java` `Spring Boot` `MySQL` | [Repo ↗](https://github.com/Arpit-mhjn1/Loan-Application-Management) |
+| 04 | ☁️ **Dropix Cloud** | Cloud file-sharing with user authentication and secure shareable links | `Web App` `Cloud` `Auth` | [Live ↗](https://dropix-6267.onrender.com/) |
+| 05 | 🎓 **Campus Event Manager** | Full-stack system to create, organize and track university campus events | `Full Stack` `Database` | [Live ↗](https://edc-event-manager-1.onrender.com/) |
+| 06 | 📚 **Library Management** | Streamlined library system for inventory, borrowings and user management | `HTML` `CSS` `JavaScript` | [Repo ↗](https://github.com/Arpit-mhjn1/Library-Management-System) |
 
-<div align="center">
-  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20View%20All%20Projects%20on%20Portfolio-%231F6FEB.svg?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</div>
+> 💡 *Check out the complete interactive showcase on my* [**personal portfolio website**](https://arpit-mhjn1.github.io/arpit-portfolio/).
 
----
+### 🔍 Deep dive
 
-## 📊 GitHub Analytics
+<!-- ───────────── 01 ───────────── -->
+### `01` 🤖 AI Interview Coach &nbsp;·&nbsp; <sub>AI-powered mock interview platform using LLMs</sub>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Arpit-mhjn1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</div>
+> *Role-specific questions. Real-time feedback. Zero fluff.*
+
+Users select a job role and get **dynamically generated interview questions from Groq's Llama 3**, covering technical depth, behavioural patterns and domain knowledge. The system gives **instant AI feedback** on answers — not just right/wrong, but *why*. Built with Streamlit for a clean, zero-install experience and deployed publicly.
+
+```
+job role ─▶ Groq Llama 3 prompt ─▶ dynamic questions ─▶ user answer ─▶ AI evaluation ─▶ feedback
+```
+
+**🛠️ Stack:** `Python` `Streamlit` `Groq API` `Llama 3` `LLM Prompt Engineering`<br/>
+🔗 [**Live Demo**](https://ainterviewpreperation.streamlit.app/)
+
+<!-- ───────────── 02 ───────────── -->
+### `02` 🔥 Forest Fire Predictor &nbsp;·&nbsp; <sub>ML-powered fire risk classification system</sub>
+
+> *Real data. Trained model. Deployed prediction.*
+
+Trained on the **Algerian Forest Fires dataset**, this system takes meteorological inputs (temperature, humidity, wind speed, rain, BUI, FWI indices) and predicts fire risk class. Built a **full ML pipeline**: EDA → feature engineering → model selection (Scikit-Learn) → hyperparameter tuning → Streamlit deployment. The model is serialized and loaded at runtime — no retraining needed per request.
+
+```
+raw data ─▶ EDA & cleaning ─▶ feature engineering ─▶ model training ─▶ serialized model ─▶ Streamlit API
+```
+
+**🛠️ Stack:** `Python` `Scikit-Learn` `Pandas` `NumPy` `Pickle` `Streamlit`<br/>
+🔗 [**Live Demo**](https://algerian-forest-fire-prediction1.streamlit.app/)
+
+<!-- ───────────── 03 ───────────── -->
+### `03` 💳 Loan Management System &nbsp;·&nbsp; <sub>Enterprise Spring Boot backend application</sub>
+
+> *Built for reliability, designed for scale.*
+
+A production-structured **Spring Boot** application handling the complete loan lifecycle: application submission, eligibility checks, approval workflows, EMI calculation and status tracking. Uses a clean **layered architecture** (Controller → Service → Repository) with MySQL persistence, DTOs, exception handling and RESTful API contracts. Designed to reflect enterprise Java patterns.
+
+```
+loan request ─▶ eligibility check ─▶ approval workflow ─▶ EMI calculation ─▶ MySQL persistence ─▶ REST API
+```
+
+**🛠️ Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST APIs` `Maven`<br/>
+🔗 [**Repository**](https://github.com/Arpit-mhjn1/Loan-Application-Management)
+
+<!-- ───────────── 04 ───────────── -->
+### `04` ☁️ Dropix Cloud &nbsp;·&nbsp; <sub>Cloud file-sharing web application</sub>
+
+> *Upload. Share. Done.*
+
+A responsive cloud file-sharing platform where users can **upload files, generate secure shareable links** and manage their cloud storage through a clean interface. Implements **user authentication**, file ownership, link expiry controls and a dashboard. Deployed live on Render with persistent storage.
+
+```
+file upload ─▶ auth check ─▶ cloud storage ─▶ secure link generation ─▶ shareable URL ─▶ dashboard
+```
+
+**🛠️ Stack:** `Web App` `Authentication` `Cloud Storage` `Render`<br/>
+🔗 [**Live Demo**](https://dropix-6267.onrender.com/)
+
+<!-- ───────────── 05 ───────────── -->
+### `05` 🎓 Campus Event Manager &nbsp;·&nbsp; <sub>Full-stack university event management system</sub>
+
+> *Every event, organized.*
+
+A comprehensive system for **creating, managing and tracking campus events**. Features event creation with descriptions and schedules, registration flows for students, organizer dashboards and status tracking. Built full-stack and deployed live on Render, handling real university event coordination workflows.
+
+```
+event creation ─▶ registration flow ─▶ attendee tracking ─▶ organizer dashboard ─▶ status management
+```
+
+**🛠️ Stack:** `Full Stack` `Database` `Render` `REST APIs`<br/>
+🔗 [**Live Demo**](https://edc-event-manager-1.onrender.com/)
+
+<!-- ───────────── 06 ───────────── -->
+### `06` 📚 Library Management &nbsp;·&nbsp; <sub>Browser-based library system</sub>
+
+> *Simple interface. Complete functionality.*
+
+A client-side **library management system** for tracking inventory, managing borrowings and returns, and searching the catalogue — all without a backend. Pure HTML, CSS and JavaScript, with localStorage persistence. Demonstrates clean DOM management, state handling and UI design principles.
+
+```
+book search ─▶ borrow/return flow ─▶ inventory update ─▶ localStorage persistence ─▶ dashboard view
+```
+
+**🛠️ Stack:** `HTML5` `CSS3` `JavaScript` `localStorage`<br/>
+🔗 [**Repository**](https://github.com/Arpit-mhjn1/Library-Management-System)
 
 <br/>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-mhjn1&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="Arpit's Activity Graph" />
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arpit-mhjn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/"><img src="https://img.shields.io/badge/🌐_View_full_project_showcase_&_portfolio-0b1220?style=for-the-badge&labelColor=1F6FEB" alt="Explore on portfolio"/></a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 Where my skills meet real builds
 
-<div align="center">
+| Capability | Where it's built |
+| :-- | :-- |
+| 🤖 **LLM & Generative AI Apps** | AI Interview Coach |
+| 🔬 **Machine Learning Pipelines** | Forest Fire Predictor |
+| ☕ **Enterprise Java / Spring Boot** | Loan Management System |
+| ☁️ **Cloud & File Systems** | Dropix Cloud |
+| 📅 **Full-Stack Web Development** | Campus Event Manager |
+| 🗄️ **Database Design & SQL** | Loan Management · Library Management |
+| 🎨 **Frontend (HTML/CSS/JS)** | Library Management · Dropix Cloud |
+
+---
+
+## 🧰 Tech arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=spring,html,css,sklearn&theme=dark" alt="Frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vercel&theme=dark" alt="Tools"/>
+</p>
+
+<details>
+<summary><b>📂 Full skill list (click to expand)</b></summary>
+<br/>
+
+| Area | Skills |
+| :-- | :-- |
+| **Languages** | Python · Java · C++ · C · JavaScript |
+| **Backend & APIs** | Spring Boot · Spring Data JPA · REST APIs · Maven · JWT Auth |
+| **AI / ML** | Scikit-Learn · Pandas · NumPy · Feature Engineering · LLM Prompt Engineering |
+| **Generative AI** | Groq API · Llama 3 · LLMs · AI-powered applications |
+| **Frontend** | HTML5 · CSS3 · JavaScript · Streamlit · Responsive Design |
+| **Databases** | MySQL · SQL · localStorage |
+| **DevOps & Cloud** | Git · GitHub · Render · Vercel · GitHub Pages |
+| **Tools** | VS Code · Jupyter Notebook · Pickle · REST client testing |
+
+</details>
+
+---
+
+## 📊 GitHub analytics & top languages
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Arpit-mhjn1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0b1220&title_color=58A6FF&icon_color=58A6FF&text_color=c9d7e3&ring_color=58A6FF&custom_title=Arpit's%20GitHub%20Stats" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arpit-mhjn1&layout=compact&langs_count=8&hide_border=true&bg_color=0b1220&title_color=58A6FF&text_color=c9d7e3&custom_title=Most%20Used%20Languages" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-mhjn1&bg_color=0b1220&color=c9d7e3&line=58A6FF&point=ffffff&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arpit-mhjn1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpit-mhjn1/Arpit-mhjn1/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpit-mhjn1/Arpit-mhjn1/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arpit-mhjn1/Arpit-mhjn1/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Arpit-mhjn1/Arpit-mhjn1/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 🔭 Right now
 
-## 🤝 Let's Connect & Build Something Amazing!
+```diff
++ Deepening my Java & Spring Boot skills with microservices patterns
++ Exploring LangChain and RAG for more powerful AI app architectures
++ Sharpening DSA problem solving for SWE interview readiness
++ Open to internships, collaborative projects and anything interesting
+```
+
+## 🌱 Beyond the code
 
 <p>
-  <a href="https://www.linkedin.com/in/arpitmahajan10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="mailto:mahajanarpit37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  🎵 Music &nbsp;·&nbsp; 🏏 Cricket &nbsp;·&nbsp; 📖 Tech Blogs &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; ✈️ Exploring new places
 </p>
 
-<br/>
+---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+<h2 align="center">🤝 Let's connect and build something great!</h2>
 
-</div>
+<p align="center">
+  Always up for conversations about <b>AI/ML products, Java systems, full-stack projects</b><br/>
+  and <i>ideas worth shipping</i>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpitmahajan10"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn"/></a>
+  <a href="https://arpit-mhjn1.github.io/arpit-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1220" alt="Portfolio"/></a>
+  <a href="mailto:mahajanarpit37@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="Email"/></a>
+  <a href="https://github.com/Arpit-mhjn1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repos-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arpit-mhjn1&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,55:1F6FEB,100:0b1220&text=Code%20that%20ships%20beats%20code%20that%20sits.&fontSize=18&fontColor=ffffff&fontAlignY=72" width="100%" alt="Footer"/>
+</p>
