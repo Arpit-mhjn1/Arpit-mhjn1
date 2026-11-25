@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,40:1e1b4b,75:4C1D95,100:7C3AED&height=200&text=Arpit%20Mahajan&fontColor=ffffff&fontSize=58&fontAlignY=50&animation=blinking&desc=Full%20Stack%20Python%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=70&descSize=16" width="100%" alt="Arpit Mahajan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:1e1b4b,65:4C1D95,100:7C3AED&height=220&text=Arpit%20Mahajan&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Python%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Arpit Mahajan"/>
 </p>
 
 <p align="center">
