@@ -32,7 +32,7 @@
 
 ---
 
-## `$ arpit --whoami`
+## `$ who is-- arpit`
 
 ```bash
 {
